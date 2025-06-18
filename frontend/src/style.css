@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-moonstone: #00b1cc;
+  --color-charcoal: #2e4057;
+  --color-gunmetal: #1c2735;
+  --color-isabelline: #edeae8;
+}
